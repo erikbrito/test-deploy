@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+}
+
+.Body {
+  min-width: 55%;
+  min-height: 100%;
+}
